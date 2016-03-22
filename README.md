@@ -1,7 +1,7 @@
 # Team Fortress 2 Gamemode
 The source code for the Team Fortress 2 Gamemode.
 
-================ Workshop Description ===
+================ Workshop Description (WIP) ===
 
 IF YOU HAVE ANY OF ADDONS SOMETIMES EVEN 1 WILL BREAK THE GAMEMODE
 
@@ -31,18 +31,3 @@ If you're wondering why _Kilburn ended the development was because he had a hard
 [h1] Binds to know:	[/h1]
    "F1" - Nothing
    "F2" - Change Teams
-
-[h1] Planned Features	[/h1]
-==========================
-   -Taunts
-==========================
-
-[h1] Known Bugs...	[/h1]
-==========================
-   -Sometimes weapon animations refuse to work... usually some type of respawning or map changing works.
-   -The Gunslinger is using the wrong model
-   -Dispenser giving the same values on every Level 1-3
-   -Customizable Weaponry 2 Causes the ability to move non-existant
-==========================
-
-                  [img]http://www.veryicon.com/icon/png/Game/The%20Orange%20Box/Team%20Fortress%202.png[/img]
