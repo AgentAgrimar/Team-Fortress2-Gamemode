@@ -1,0 +1,46 @@
+"teamfortress"
+{
+	"base"				"base"
+	"title"				"Team Fortress 2"
+	"menusystem"		"1"
+	"workshopid"		"466705189"
+
+	"author_name"		"Agent Agrimar"
+	"author_email"		"seibergd1@gmail.com"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"tf_caninspect"
+			"text"		"Weapon Inspecting"
+			"help"		"When enabled, it allows anybody to take a good look of their weapon."
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+		2
+		{
+			"name"		"tf_haltinspect"
+			"text"		"Stop Inspecting when Noclipping"
+			"help"		"When enabled, you can't inspect while noclipping, and will halt as soon as you enter noclip."
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+		3
+		{
+			"name"		"tf_voice_cooldown"
+			"text"		"Voice Cooldown"
+			"help"		"When enabled, it stops users from spamming voice commands!"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+		4
+		{
+			"name"		"sbox_noclip"
+			"text"		"Noclip"
+			"help"		"When enabled players will be able to noclip"
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+	}
+}
