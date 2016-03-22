@@ -3,18 +3,14 @@ The source code for the Team Fortress 2 Gamemode.
 
 ================ Workshop Description ===
 
-[b] IF YOU HAVE ANY OF ADDONS SOMETIMES EVEN 1 WILL BREAK THE GAMEMODE	[/b]
+IF YOU HAVE ANY OF ADDONS SOMETIMES EVEN 1 WILL BREAK THE GAMEMODE
 
   The Gamemode that allows you to play TF2 in Gmod!
 
           Pre-Owners - Kilburn, wango911
            Workshopper - Agent Agrimar
 
-[h1] Group[/h1]→[url=http://steamcommunity.com/groups/agtf2gm]Here[/url]
-
 If you're wondering why _Kilburn ended the development was because he had a hard drive failure and lost all his data. I was in talks with some other dude in regards to bringing back the gamemode, but I have not talked to the guy in months, so I'm guessing his branch is dead. - [N⁸] SmileyFace (A.K.A wango911)
-
-[h1] Custom Weapons[/h1]→[url=http://steamcommunity.com/sharedfiles/filedetails/?id=347322351]Here[/url]
 
 [h1] Commands to know:	[/h1]
    "changeclass_menu" - Brings up a derma menu so you dont have to type in very much commands.
