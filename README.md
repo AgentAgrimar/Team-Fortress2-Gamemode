@@ -18,7 +18,7 @@ If you're wondering why _Kilburn ended the development was because he had a hard
    
    "changeclass (CLASS)" - Changes into the specified class. You can also say this in chat now!
    
-   "changeteam (TEAM)" - Changes into the specified team.
+    "changeteam (TEAM)" - Changes into the specified team.
    
    "giveweapon (WEAPON)" - Gives you the weapon you specified.
    
@@ -34,7 +34,7 @@ If you're wondering why _Kilburn ended the development was because he had a hard
    
    "cl_autoreload 0/1" - Does what it says.
    
-   "cl_use_tf_viewmodel_fov" - That way, it doesn't screw with your other stuff
+ "cl_use_tf_viewmodel_fov" - That way, it doesn't screw with your other stuff
    
    "viewmodel_fov_tf", TF Viewmodel FOV needs the above ConVar to be enabled
    
